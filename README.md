@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Souhitya Kar</h1>
+<h3 align="center">Frontend Developer | React.js | Tailwind CSS</h3>
 
-<!--
-**souhitya1/souhitya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Tailwind+CSS;Learning+DSA+in+Java;Building+Clean+UI+%26+UX" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 💻 Frontend Developer passionate about **clean UI & responsive design**
+- ⚛️ Skilled in **React.js** and **Tailwind CSS**
+- ☕ Currently learning **DSA in Java**
+- 🛠 Built multiple real-world projects using React
+
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,java,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" height="170" />
+</p>
+
+---
+
+### 📌 Currently Working On
+- ⚡ Advanced React projects
+- 🧠 Data Structures & Algorithms (Java)
+- 🎨 Improving UI/UX & performance
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://github.com/souhitya1">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/souhityakar">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐ *Feel free to explore my repositories and projects!*
