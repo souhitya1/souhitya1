@@ -33,7 +33,7 @@
 ---
 
 ### 📌 Currently Working On
-- ⚡ Advanced React projects
+- ⚡ Advanced Real World projects
 - 🧠 Data Structures & Algorithms (Java)
 - 🎨 Improving UI/UX & performance
 
