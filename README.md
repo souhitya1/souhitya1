@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souhitya Kar</h1>
-<h3 align="center">Frontend Developer | React.js | Tailwind CSS</h3>
+<h3 align="center">MERN stack developer  Node js| Express| React</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Tailwind+CSS;Learning+DSA+in+Java;Building+Clean+UI+%26+UX" />
