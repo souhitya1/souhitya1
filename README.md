@@ -2,7 +2,7 @@
 <h3 align="center">MERN stack developer  Node js| Express| React</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Tailwind+CSS;Learning+DSA+in+Java;Building+Clean+UI+%26+UX" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Mern stack + developer;React+%7C+Express;Learning+DSA+in+Java;Building+Clean+UI+%26+UX" />
 </p>
 
 ---
