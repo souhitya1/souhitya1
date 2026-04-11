@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 💻 Frontend Developer passionate about **clean UI & responsive design**
-- ⚛️ Skilled in **React.js** and **Tailwind CSS**
+- 💻 Full stack  Developer passionate about **Creating passionate websites**
+- ⚛️ Skilled in **React.js** and **Node js **
 - ☕ Currently learning **DSA in Java**
-- 🛠 Built multiple real-world projects using React
+- 🛠 Built multiple real-world projects using Node js , express and React
 
 ---
 
